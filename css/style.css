@@ -30,3 +30,15 @@ section{
     width: 50%;
 }
 
+article li.actual{
+    font-weight: bolder;
+    font-size: 1.2em;
+}
+
+#formacion ul li:first-child{
+    font-weight: bolder;
+    font-size: 1.2em;
+}
+
+
+
