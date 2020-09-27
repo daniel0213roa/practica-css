@@ -8,3 +8,25 @@ article li{
 article li strong {
     color: #000;
 }
+
+aside{
+    float: left;
+    width: 30%;
+    clear: both;
+}
+
+section{
+    float: left;
+    width: 70%;
+}
+
+#formacion{
+    float: left;
+    width: 50%;
+}
+
+#experiencia{
+    float: left;
+    width: 50%;
+}
+
